@@ -18,8 +18,7 @@ Access it using this link https://csals.github.io/Sorting-Visualizer/.
 - Generalize disableSort,resetSort functions
 - Implement heap sort
 - Stop the algorithm when reset button is pressed
-- Huge thanks to [Clément Mihailescu](https://github.com/clementmihailescu) for this project idea.
-
+  
 ## 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
